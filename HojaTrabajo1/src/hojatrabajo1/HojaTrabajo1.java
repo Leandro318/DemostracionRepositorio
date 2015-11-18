@@ -21,4 +21,7 @@ public class HojaTrabajo1 {
     public String getNombre(){
         return nombre;
     }
+    public int getValor(){
+        return valor
+    }
 }
