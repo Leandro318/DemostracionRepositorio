@@ -22,6 +22,6 @@ public class HojaTrabajo1 {
         return nombre;
     }
     public int getValor(){
-        return valor
+        return valor;
     }
 }
